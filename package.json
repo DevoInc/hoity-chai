@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Hoity (High Order ITerators Yielded) Chai plugin",
   "main": "lib/index.js",
+  "files": [
+    "lib/"
+  ],
   "directories": {
     "test": "mocha"
   },
