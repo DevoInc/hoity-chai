@@ -1,5 +1,5 @@
 {
-  "name": "@devo/hoity-chai",
+  "name": "@devoinc/hoity-chai",
   "version": "0.1.1",
   "description": "Hoity (High Order ITerators Yielded) Chai plugin",
   "main": "lib/index.js",
